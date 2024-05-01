@@ -1,4 +1,4 @@
-# GraphKernelConvolution
+# Graph Kernel Neural Networks
 
 ## Install the following packages
 ```
@@ -17,3 +17,14 @@ wandb
 
 ## Training
 execute **python run_training.py** to start the training
+
+
+## Citation
+```
+@article{cosmo2021graph,
+  title={Graph kernel neural networks},
+  author={Cosmo, Luca and Minello, Giorgia and Bronstein, Michael and Rodol{\`a}, Emanuele and Rossi, Luca and Torsello, Andrea},
+  journal={arXiv preprint arXiv:2112.07436},
+  year={2021}
+}
+```

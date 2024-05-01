@@ -1,0 +1,19 @@
+# Python
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+
+# datasets
+**/data/processed/
+**/data/raw/
+**/data/ori_dataset/**/10fold_idx/
+
+
+# PyTorch Lightning
+lightning_logs/
+
+# Weights & Biases
+wandb/
+
+
